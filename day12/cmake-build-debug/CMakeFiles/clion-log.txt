@@ -1,0 +1,4 @@
+C:\Users\Yaroslav.Sviridov\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Yaroslav.Sviridov/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/ninja/win/ninja.exe -G Ninja C:\Users\Yaroslav.Sviridov\Desktop\AOC\2021\day12
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Yaroslav.Sviridov/Desktop/AOC/2021/day12/cmake-build-debug
